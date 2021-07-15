@@ -8,8 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SnapDevelop.Helper
-{
+namespace SnapDevelopHelper {
+    
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.10.0.0")]
@@ -37,7 +37,7 @@ namespace SnapDevelop.Helper
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("mitarb")]
+        [global::System.Configuration.DefaultSettingValueAttribute("mytable")]
         public string Table {
             get {
                 return ((string)(this["Table"]));
@@ -49,8 +49,7 @@ namespace SnapDevelop.Helper
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\T.meissner\\source\\repos\\tuke307\\PZEWebApi\\PZEWebApi.Models\\database\\Mita" +
-            "rb.cs")]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\T.meissner\\source\\repos\\tuke307\\PZEWebApi\\PZEWebApi.Models\\Mytable.cs")]
         public string FilePath {
             get {
                 return ((string)(this["FilePath"]));
