@@ -1,15 +1,15 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PowerbuilderToSnapDevelop" GeneratedClassName="settings">
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SnapDevelopHelper" GeneratedClassName="settings">
   <Profiles />
   <Settings>
     <Setting Name="ConnectionString" Type="System.String" Scope="User">
       <Value Profile="(Default)">UID=dba;PWD=sql;DSN=tlfi_web_pze_tony</Value>
     </Setting>
     <Setting Name="Table" Type="System.String" Scope="User">
-      <Value Profile="(Default)">mitarb</Value>
+      <Value Profile="(Default)">mytable</Value>
     </Setting>
     <Setting Name="FilePath" Type="System.String" Scope="User">
-      <Value Profile="(Default)">C:\Users\T.meissner\source\repos\tuke307\PZEWebApi\PZEWebApi.Models\database\Mitarb.cs</Value>
+      <Value Profile="(Default)">C:\Users\T.meissner\source\repos\tuke307\PZEWebApi\PZEWebApi.Models\Mytable.cs</Value>
     </Setting>
     <Setting Name="BaseClass" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">True</Value>
