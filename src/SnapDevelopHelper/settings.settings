@@ -5,14 +5,8 @@
     <Setting Name="ConnectionString" Type="System.String" Scope="User">
       <Value Profile="(Default)">UID=dba;PWD=sql;DSN=tlfi_web_pze_tony</Value>
     </Setting>
-    <Setting Name="Table" Type="System.String" Scope="User">
-      <Value Profile="(Default)">mytable</Value>
-    </Setting>
     <Setting Name="FilePath" Type="System.String" Scope="User">
-      <Value Profile="(Default)">C:\Users\T.meissner\source\repos\tuke307\PZEWebApi\PZEWebApi.Models\Mytable.cs</Value>
-    </Setting>
-    <Setting Name="BaseClass" Type="System.Boolean" Scope="User">
-      <Value Profile="(Default)">True</Value>
+      <Value Profile="(Default)">C:\Users\T.meissner\source\repos\tuke307\TlfiWebApi\Shared\WebApi.Models\Para\Fi_prt_para.cs</Value>
     </Setting>
     <Setting Name="DeleteCurrentComment" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">True</Value>

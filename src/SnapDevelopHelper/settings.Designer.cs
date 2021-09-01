@@ -37,37 +37,14 @@ namespace SnapDevelopHelper {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("mytable")]
-        public string Table {
-            get {
-                return ((string)(this["Table"]));
-            }
-            set {
-                this["Table"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\T.meissner\\source\\repos\\tuke307\\PZEWebApi\\PZEWebApi.Models\\Mytable.cs")]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\T.meissner\\source\\repos\\tuke307\\TlfiWebApi\\Shared\\WebApi.Models\\Para\\Fi_" +
+            "prt_para.cs")]
         public string FilePath {
             get {
                 return ((string)(this["FilePath"]));
             }
             set {
                 this["FilePath"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("True")]
-        public bool BaseClass {
-            get {
-                return ((bool)(this["BaseClass"]));
-            }
-            set {
-                this["BaseClass"] = value;
             }
         }
         
